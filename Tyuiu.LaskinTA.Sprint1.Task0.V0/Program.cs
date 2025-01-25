@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.LaskinTA.Sprint1.Task0.V0.Lib;
-namespace Tyuiu.LaskinTA.Sprint1.Task0.V0
+using Tyuiu.LaskinTA.Sprint1.Task0.V18.Lib;
+namespace Tyuiu.LaskinTA.Sprint1.Task0.V18
 {
     class Program
     {
